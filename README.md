@@ -23,3 +23,7 @@ I try to solve Project Euler problems for fun to practice and improve my math an
 | 12 | [problem12.go](https://github.com/Belekkk/Projet-Euler/blob/master/problem12.go) |
 | 13 | [problem13.go](https://github.com/Belekkk/Projet-Euler/blob/master/problem13.go) |
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Belekkk/projet-euler/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
